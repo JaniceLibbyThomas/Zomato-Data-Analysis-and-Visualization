@@ -1,6 +1,7 @@
-# Zomato-Data-Analysis-and-Visualization using Python scripting, Pandas and Plotly
+# Zomato-Data-Analysis-and-Visualization
 
-<h1>Skills Used </h1>
+## Skills Used:
+
 <a href="http://janethomas.pythonanywhere.com/">
 <img alt="Pandas" src="https://upload.wikimedia.org/wikipedia/commons/thumb/e/ed/Pandas_logo.svg/2560px-Pandas_logo.svg.png" width="165"/>
 <img alt="Plotly" src="https://upload.wikimedia.org/wikipedia/commons/thumb/8/8a/Plotly-logo.png/1200px-Plotly-logo.png" width="165"/>
