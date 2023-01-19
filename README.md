@@ -13,6 +13,17 @@
 </a>
 
 
-## Description
+## Problem Statement
  
-Analyzing the Zomato Data Set and plotting some interesting informations
+Zomato is a popular restaurant discovery and food delivery service. Data
+analysis on the platform's data could be used to gain insights into customer
+preferences and behavior, as well as identify trends in the restaurant industry.
+To perform the analysis various _methodologies_ such as _Data Exploration, Data
+Cleaning, Feature Selection And Deployment_ can be used. Additionally, various
+_data visualization techniques_ like bar charts, line charts, scatter plots, etc. could
+be employed to help communicate the insights gained from the
+analysis.
+
+Overall, data visualization can be used to effectively communicate the
+insights from Zomato data analysis to a wide range of stakeholders, including
+restaurants, food industry players, and investors.
