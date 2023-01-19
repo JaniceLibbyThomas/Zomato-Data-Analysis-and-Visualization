@@ -1,6 +1,10 @@
 # Zomato-Data-Analysis-and-Visualization
 
-## Skills Used:
+## Project Description
+
+Analysing Zomato Dataset and to build a Plotly Dashboard that helps to analyze and improve zomato's business 
+
+### Skills Used:
 
 <a href="https://pandas.pydata.org/docs/reference/index.html">
 <img alt="Pandas" src="https://upload.wikimedia.org/wikipedia/commons/thumb/e/ed/Pandas_logo.svg/2560px-Pandas_logo.svg.png" width="165"/>
@@ -27,3 +31,19 @@ analysis.
 Overall, data visualization can be used to effectively communicate the
 insights from Zomato data analysis to a wide range of stakeholders, including
 restaurants, food industry players, and investors.
+
+## Work Flow
+
+- _**Uploading the required dataset from**_
+   - https://raw.githubusercontent.com/JaniceLibbyThomas/Sample_Dataset/main/Zomato.csv
+   - https://raw.githubusercontent.com/JaniceLibbyThomas/Sample_Dataset/main/Country-Code.csv
+   
+- _**Data Cleaning:**_
+  - Since taken dataset is a cleaned dataset, no cleaning operation is done.
+
+- _**Data Engineering:**_
+  - Adding new column Exchange rate of other currency to INR (Indian Rupee)
+  - Adding another new column Indian Rupee by multipling cost amount which already exist in the dataframe with newly added column exchange rate.
+  
+- _**Data Visualization:**_
+  - Visualized using Plotly Dash
